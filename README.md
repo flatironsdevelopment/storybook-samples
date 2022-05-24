@@ -65,7 +65,7 @@ You can find more info inside each of them.
 - [yannbf](https://mealdrop.vercel.app/storybook/)
 
 
-# Curated a list of design systems and style guides you may find helpful:
+# Curated list of some design systems and style guides that may be helpful:
 
 - [Airbnb](https://airbnb.design/the-way-we-build/)
 - [Atlassian](https://atlassian.design/)
