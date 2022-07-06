@@ -12,7 +12,6 @@ You can find more info inside each of them.
 
 # Reading Recomendations
 
-- [Jombine's UI Library](https://github.com/flatironsdevelopment/jombine/tree/develop/client/src/components)
 - [Component Driven Design](https://www.componentdriven.org/)
 - [Design System Handbook](https://www.designbetter.co/download?dl=design-systems-handbook&-ch1=introducing-design-systems)
 - [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
