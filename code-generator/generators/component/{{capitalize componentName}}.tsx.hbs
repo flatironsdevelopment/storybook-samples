@@ -1,0 +1,10 @@
+import * as S from './{{capitalize componentName}}.styles'
+import { {{capitalize componentName}}Props } from './interfaces'
+
+export const {{capitalize componentName}} = ({ testId = '{{kebabCase componentName}}-id', ...props }: {{capitalize componentName}}Props) => {
+  return (
+		<S.Container data-testid={testId} {...props}>
+			Hello {{capitalize componentName}}!
+		</S.Container>
+  )
+}

@@ -1,0 +1,11 @@
+{
+  "name": "code-generator-example",
+  "private": true,
+  "scripts": {
+    "generate": "yarn plop --plopfile generators/plopfile.js"
+  },
+  "devDependencies": {
+    "plop": "^3.0.5",
+    "pretty-quick": "^3.1.3"
+  }
+}

@@ -1,0 +1,11 @@
+import { storiesOf } from "@storybook/react"
+import React from "react"
+import { {{capitalize componentName}} } from "./{{capitalize componentName}}"
+
+const args = {
+	{{capitalize componentName}}Id: "component-{{capitalize componentName}}-id",
+}
+
+storiesOf("Components/{{capitalize componentName}}", module).add("default: ", () => (
+	<{{capitalize componentName}} {...args} />
+))
